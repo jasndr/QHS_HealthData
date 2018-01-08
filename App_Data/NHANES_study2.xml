@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NHANES xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Study>
+  <Id>1</Id>
+  <Name>Demographic Variables &amp; Sample Weights</Name>
+  <GroupName>Demographics</GroupName>
+  <FileExists>11111111</FileExists>
+</Study>
+<Study>
+  <Id>2</Id>
+  <Name>Dietary Interview - Individual Foods</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>11000001</FileExists>
+</Study>
+<Study>
+  <Id>3</Id>
+  <Name>Dietary Interview - Individual Foods, First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00111111</FileExists>
+</Study>
+<Study>
+  <Id>4</Id>
+  <Name>Dietary Interview - Individual Foods, Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00111111</FileExists>
+</Study>
+<Study>
+  <Id>5</Id>
+  <Name>Dietary Interview - Total Nutrient Intakes</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>11000001</FileExists>
+</Study>
+<Study>
+  <Id>6</Id>
+  <Name>Dietary Interview - Total Nutrient Intakes, First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00111111</FileExists>
+</Study>
+<Study>
+  <Id>7</Id>
+  <Name>Dietary Interview - Total Nutrient Intakes, Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00111111</FileExists>
+</Study>
+<Study>
+  <Id>8</Id>
+  <Name>Dietary Interview Technical Support File - Food Code Format File</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>11000001</FileExists>
+</Study>
+<Study>
+  <Id>9</Id>
+  <Name>Dietary Interview Technical Support File - Food Codes</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00111111</FileExists>
+</Study>
+<Study>
+  <Id>10</Id>
+  <Name>Dietary Interview Technical Support File - Modification Codes</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00111111</FileExists>
+</Study>
+<Study>
+  <Id>11</Id>
+  <Name>Dietary Screener Questionnaire</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00000101</FileExists>
+</Study>
+<Study>
+  <Id>12</Id>
+  <Name>Dietary Supplement Database - Blend Information</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>11111111</FileExists>
+</Study>
+<Study>
+  <Id>13</Id>
+  <Name>Dietary Supplement Database - Ingredient Information</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>11111111</FileExists>
+</Study>
+<Study>
+  <Id>14</Id>
+  <Name>Dietary Supplement Database - Product Information</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>11111111</FileExists>
+</Study>
+<Study>
+  <Id>15</Id>
+  <Name>Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00001111</FileExists>
+</Study>
+<Study>
+  <Id>16</Id>
+  <Name>Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00001111</FileExists>
+</Study>
+<Study>
+  <Id>17</Id>
+  <Name>Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00001111</FileExists>
+</Study>
+<Study>
+  <Id>18</Id>
+  <Name>Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00001111</FileExists>
+</Study>
+<Study>
+  <Id>19</Id>
+  <Name>Dietary Supplement Use 30 Day - Individual Dietary Supplements</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00001111</FileExists>
+</Study>
+<Study>
+  <Id>20</Id>
+  <Name>Dietary Supplement Use 30-Day - File 1, Supplement Counts</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>11110001</FileExists>
+</Study>
+<Study>
+  <Id>21</Id>
+  <Name>Dietary Supplement Use 30-Day - File 2, Participants Use of Supplements</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>11110001</FileExists>
+</Study>
+<Study>
+  <Id>22</Id>
+  <Name>Dietary Supplement Use 30-Day - Total Dietary Supplements</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00001111</FileExists>
+</Study>
+<Study>
+  <Id>23</Id>
+  <Name>Food Frequency Questionnaire - Look-Up Table FOODLOOK</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00110001</FileExists>
+</Study>
+<Study>
+  <Id>24</Id>
+  <Name>Food Frequency Questionnaire - Look-Up Table VARLOOK</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00110001</FileExists>
+</Study>
+<Study>
+  <Id>25</Id>
+  <Name>Food Frequency Questionnaire - Output from DietCalc Software</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00110001</FileExists>
+</Study>
+<Study>
+  <Id>26</Id>
+  <Name>Food Frequency Questionnaire - Raw Questionnaire Responses</Name>
+  <GroupName>Dietary</GroupName>
+  <FileExists>00110001</FileExists>
+</Study>
+<Study>
+  <Id>27</Id>
+  <Name>Arthritis Body Measures</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>00000101</FileExists>
+</Study>
+<Study>
+  <Id>28</Id>
+  <Name>Audiometry</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>11111101</FileExists>
+</Study>
+<Study>
+  <Id>29</Id>
+  <Name>Audiometry - Acoustic Reflex</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>11111101</FileExists>
+</Study>
+<Study>
+  <Id>30</Id>
+  <Name>Audiometry - Tympanometry</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>11111101</FileExists>
+</Study>
+<Study>
+  <Id>31</Id>
+  <Name>Balance</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>11100001</FileExists>
+</Study>
+<Study>
+  <Id>32</Id>
+  <Name>Bioelectrical Impedance Analysis</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>11100001</FileExists>
+</Study>
+<Study>
+  <Id>33</Id>
+  <Name>Blood Pressure</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>11111111</FileExists>
+</Study>
+<Study>
+  <Id>34</Id>
+  <Name>Body Measures</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>11111111</FileExists>
+</Study>
+<Study>
+  <Id>35</Id>
+  <Name>Cardiovascular Fitness</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>11100001</FileExists>
+</Study>
+<Study>
+  <Id>36</Id>
+  <Name>Dermatology</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>00100001</FileExists>
+</Study>
+<Study>
+  <Id>37</Id>
+  <Name>Dual Energy X-ray Absorptiometry - AndroidGynoid</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>38</Id>
+  <Name>Dual Energy X-ray Absorptiometry - Femur</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>39</Id>
+  <Name>Dual Energy X-ray Absorptiometry - Spine</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>40</Id>
+  <Name>Dual-Energy X-ray Absorptiometry - Femur</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0000000</FileExists>
+</Study>
+<Study>
+  <Id>41</Id>
+  <Name>Dual-Energy X-ray Absorptiometry - FRAX Score</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0000000</FileExists>
+</Study>
+<Study>
+  <Id>42</Id>
+  <Name>Dual-Energy X-ray Absorptiometry - Spine</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0000000</FileExists>
+</Study>
+<Study>
+  <Id>43</Id>
+  <Name>Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0000000</FileExists>
+</Study>
+<Study>
+  <Id>44</Id>
+  <Name>Dual-Energy X-ray Absorptiometry - Whole Body, Second Exam</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>45</Id>
+  <Name>Exhaled Nitric Oxide</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>46</Id>
+  <Name>Lower Extremity Disease - Ankle Brachial Blood Pressure Index</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>47</Id>
+  <Name>Lower Extremity Disease - Peripheral Neuropathy</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>48</Id>
+  <Name>Muscle Strength</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>49</Id>
+  <Name>Muscle Strength - Grip Test</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>50</Id>
+  <Name>Ophthalmology - Frequency Doubling Technology</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0001100</FileExists>
+</Study>
+<Study>
+  <Id>51</Id>
+  <Name>Ophthalmology - Retinal Imaging</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0001100</FileExists>
+</Study>
+<Study>
+  <Id>52</Id>
+  <Name>Oral Health</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0001100</FileExists>
+</Study>
+<Study>
+  <Id>53</Id>
+  <Name>Oral Health - Addendum</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>54</Id>
+  <Name>Oral Health - Dentition</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>1110011</FileExists>
+</Study>
+<Study>
+  <Id>55</Id>
+  <Name>Oral Health - Periodontal</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>1000011</FileExists>
+</Study>
+<Study>
+  <Id>56</Id>
+  <Name>Oral Health - PeriodontalLower</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0110000</FileExists>
+</Study>
+<Study>
+  <Id>57</Id>
+  <Name>Oral Health - PeriodontalUpper</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>0110000</FileExists>
+</Study>
+<Study>
+  <Id>58</Id>
+  <Name>Oral Health - Recommendation of Care</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>1110011</FileExists>
+</Study>
+<Study>
+  <Id>59</Id>
+  <Name>Shared Exclusion Questions</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>10000001</FileExists>
+</Study>
+<Study>
+  <Id>60</Id>
+  <Name>Spirometry - Pre and Post-Bronchodilator</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>00001111</FileExists>
+</Study>
+<Study>
+  <Id>61</Id>
+  <Name>Tuberculosis</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>10000011</FileExists>
+</Study>
+<Study>
+  <Id>62</Id>
+  <Name>Vision</Name>
+  <GroupName>Examination</GroupName>
+  <FileExists>11111001</FileExists>
+</Study>
+<Study>
+  <Id>63</Id>
+  <Name>Acrylamide &amp; Glycidamide</Name>
+  <GroupName>Laboratory</GroupName>
+  <FileExists>00100000</FileExists>
+</Study>
+
+<Study>
+  <Id>74</Id>
+  <Name>Bacterial vaginosis (BV) &amp; Trichomonas vaginalis</Name>
+  <GroupName>Laboratory</GroupName>
+  <FileExists>01100000</FileExists>
+</Study>
+
+<Study>
+  <Id>91</Id>
+  <Name>Complete Blood Count with 5-part Differential - Whole Blood</Name>
+  <GroupName>Laboratory</GroupName>
+  <FileExists>11111110</FileExists>
+</Study>
+
+<Study>
+  <Id>93</Id>
+  <Name>Copper, Selenium &amp; Zinc - Serum</Name>
+  <GroupName>Laboratory</GroupName>
+  <FileExists>00000010</FileExists>
+</Study>
+
+<Study>
+  <Id>107</Id>
+  <Name>Dioxins, Furans, &amp; Coplanar PCBs</Name>
+  <GroupName>Laboratory</GroupName>
+  <FileExists>11100000</FileExists>
+</Study>
+<Study>
+  <Id>108</Id>
+  <Name>Environmental Phenols</Name>
+  <GroupName>Laboratory</GroupName>
+  <FileExists>00101100</FileExists>
+</Study>
+
+<Study>
+  <Id>115</Id>
+  <Name>Fatty Acids - Plasma (Surplus)</Name>
+  <GroupName>Laboratory</GroupName>
+  <FileExists>00100000</FileExists>
+</Study>
+
+<Study>
+  <Id>241</Id>
+  <Name>Volatile Organic Compounds (VOC) - Personal Exposure Badge</Name>
+  <GroupName>Laboratory</GroupName>
+  <FileExists>10000000</FileExists>
+</Study>
+<Study>
+  <Id>242</Id>
+  <Name>Acculturation</Name>
+  <GroupName>Questionnaire</GroupName>
+  <FileExists>1111111</FileExists>
+</Study>
+
+</NHANES>

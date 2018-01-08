@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NHANES xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Study>
+    <Id>1</Id>
+    <Name>Demographic data</Name>
+    <GroupName>Demographic</GroupName>
+    <GroupShortName>DEMO</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+  
+  <Study>
+    <Id>4</Id>
+    <Name>Dietary Interview - Individual Foods -- First Day</Name>
+    <GroupName>Dietary</GroupName>
+    <GroupShortName>DIET</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+  <Study>
+    <Id>5</Id>
+    <Name>Dietary Interview - Individual Foods -- Second Day</Name>
+    <GroupName>Dietary</GroupName>
+    <GroupShortName>DIET</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+  
+  <Study>
+    <Id>21</Id>
+    <Name>Dietary Supplement - Database Blend Information</Name>
+    <GroupName>Dietary</GroupName>
+    <GroupShortName>DIET</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+  <Study>
+    <Id>22</Id>
+    <Name>Dietary Supplement - Database Ingredient Information</Name>
+    <GroupName>Dietary</GroupName>
+    <GroupShortName>DIET</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>  
+  <Study>
+    <Id>44</Id>
+    <Name>Arthritis body measures</Name>
+    <GroupName>Examination</GroupName>
+    <GroupShortName>EXAM</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+
+  
+  <Study>
+    <Id>52</Id>
+    <Name>Balance</Name>
+    <GroupName>Examination</GroupName>
+    <GroupShortName>EXAM</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+  
+  <Study>
+    <Id>54</Id>
+    <Name>Bioelectrical Impedance Analysis</Name>
+    <GroupName>Examination</GroupName>
+    <GroupShortName>EXAM</GroupShortName>
+    <FileExists>1110000</FileExists>
+  </Study>
+  <Study>
+    <Id>55</Id>
+    <Name>Blood Pressure</Name>
+    <GroupName>Examination</GroupName>
+    <GroupShortName>EXAM</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+  
+  <Study>
+    <Id>103</Id>
+    <Name>Acrylamide and Glycidamide</Name>
+    <GroupName>Laboratory</GroupName>
+    <GroupShortName>LAB</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+  
+  <Study>
+    <Id>113</Id>
+    <Name>Bacterial vaginosis (BV) and Trichomonas vaginalis</Name>
+    <GroupName>Laboratory</GroupName>
+    <GroupShortName>LAB</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+  
+  <Study>
+    <Id>126</Id>
+    <Name>Complete Blood Count with 5-part Differential</Name>
+    <GroupName>Laboratory</GroupName>
+    <GroupShortName>LAB</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+  
+  <Study>
+    <Id>138</Id>
+    <Name>Dioxins, Furans, and Coplanar PCBs</Name>
+    <GroupName>Laboratory</GroupName>
+    <GroupShortName>LAB</GroupShortName>
+    <FileExists>1111111</FileExists>
+  </Study>
+  
+ 
+  <Study>
+    <Id>335</Id>
+    <Name>Cardiovascular Disease</Name>
+    <GroupName>Questionnaire</GroupName>
+    <GroupShortName>QUES</GroupShortName>
+    <FileExists>1101110</FileExists>
+  </Study>
+ 
+  <Study>
+    <Id>343</Id>
+    <Name>Depression Screener</Name>
+    <GroupName>Questionnaire</GroupName>
+    <GroupShortName>QUES</GroupShortName>
+    <FileExists>0001111</FileExists>
+  </Study>
+  
+</NHANES>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NHIS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Study>
+    <Id>1</Id>
+    <Name>Family</Name>
+    <GroupName>Demographics</GroupName>
+    <FileExists>11111111</FileExists>
+  </Study>
+  <Study>
+    <Id>2</Id>
+    <Name>Household</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>11000000</FileExists>
+  </Study>
+  <Study>
+    <Id>3</Id>
+    <Name>Person</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>00111110</FileExists>
+  </Study>
+  <Study>
+    <Id>4</Id>
+    <Name>Sample adult</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>00111110</FileExists>
+  </Study>
+  <Study>
+    <Id>5</Id>
+    <Name>Sample child</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>11000000</FileExists>
+  </Study>
+  <Study>
+    <Id>6</Id>
+    <Name>Injury episode</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>00111110</FileExists>
+  </Study>
+  <Study>
+    <Id>7</Id>
+    <Name>Injury verbatim</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>00111110</FileExists>
+  </Study>
+  <Study>
+    <Id>8</Id>
+    <Name>Sample adult cancer</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>11000000</FileExists>
+  </Study>
+  <Study>
+    <Id>9</Id>
+    <Name>Adult alternative medicine</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>00111110</FileExists>
+  </Study>
+  <Study>
+    <Id>10</Id>
+    <Name>Child alternative medicine</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>00111110</FileExists>
+  </Study>
+  <Study>
+    <Id>11</Id>
+    <Name>Functioning and disability</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>00000100</FileExists>
+  </Study>
+  <Study>
+    <Id>12</Id>
+    <Name>Injury vertatim</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>11111110</FileExists>
+  </Study>
+  <Study>
+    <Id>13</Id>
+    <Name>Injury episode folder</Name>
+    <GroupName>Dietary</GroupName>
+    <FileExists>11111110</FileExists>
+  </Study>
+</NHIS>

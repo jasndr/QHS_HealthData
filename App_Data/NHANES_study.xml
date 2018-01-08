@@ -1,0 +1,2859 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NHANES xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Study>
+  <Id>1</Id>
+  <Name>Demographic data</Name>
+  <GroupName>Demographic</GroupName>
+  <GroupShortName>DEMO</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>2</Id>
+  <Name>Dietary Interview - Description File -- Food Codes</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>3</Id>
+  <Name>Dietary Interview - Description File -- Modification Codes</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>4</Id>
+  <Name>Dietary Interview - Individual Foods -- First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>5</Id>
+  <Name>Dietary Interview - Individual Foods -- Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>6</Id>
+  <Name>Dietary Interview - Individual Foods File</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>7</Id>
+  <Name>Dietary Interview - Individual Foods, First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>8</Id>
+  <Name>Dietary Interview - Individual Foods, Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>9</Id>
+  <Name>Dietary Interview - Total Nutrient Intakes</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>10</Id>
+  <Name>Dietary Interview - Total Nutrient Intakes -- First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>11</Id>
+  <Name>Dietary Interview - Total Nutrient Intakes -- Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>12</Id>
+  <Name>Dietary Interview (Individual Foods File)</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>13</Id>
+  <Name>Dietary Interview (Total Nutrients)</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>14</Id>
+  <Name>Dietary Interview Description File -- Food Codes</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>15</Id>
+  <Name>Dietary Interview Description File -- Modification Codes</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>16</Id>
+  <Name>Dietary Interview Individual Foods -- First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>17</Id>
+  <Name>Dietary Interview Individual Foods -- Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>18</Id>
+  <Name>Dietary Interview Total Nutrient Intakes -- First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0010110</FileExists>
+</Study>
+<Study>
+  <Id>19</Id>
+  <Name>Dietary Interview Total Nutrient Intakes -- Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0010110</FileExists>
+</Study>
+<Study>
+  <Id>20</Id>
+  <Name>Dietary Screener Questionnaire</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>21</Id>
+  <Name>Dietary Supplement - Database Blend Information</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>22</Id>
+  <Name>Dietary Supplement - Database Ingredient Information</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>23</Id>
+  <Name>Dietary Supplement - Database Product Information</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>24</Id>
+  <Name>Dietary Supplement - Use 24-Hour Individual Dietary Supplements -- First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>25</Id>
+  <Name>Dietary Supplement - Use 24-Hour Individual Dietary Supplements -- Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>26</Id>
+  <Name>Dietary Supplement - Use 24-Hour Total Dietary Supplements -- First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>27</Id>
+  <Name>Dietary Supplement - Use 24-Hour Total Dietary Supplements -- Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>28</Id>
+  <Name>Dietary Supplement Database Blend Information</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>29</Id>
+  <Name>Dietary Supplement Database Ingredient Information</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>1110010</FileExists>
+</Study>
+<Study>
+  <Id>30</Id>
+  <Name>Dietary Supplement Database Product Information</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>1110010</FileExists>
+</Study>
+<Study>
+  <Id>31</Id>
+  <Name>Dietary Supplement Section of the SP Questionnaire File 2 Participants</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>32</Id>
+  <Name>Dietary Supplement Use - File 1 Supplement Counts (Past Month)</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>33</Id>
+  <Name>Dietary Supplement Use - File 2 Participants Use of Supplement (Past Month)</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>34</Id>
+  <Name>Dietary Supplement Use 24-Hour Individual Dietary Supplements -- First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>35</Id>
+  <Name>Dietary Supplement Use 24-Hour Individual Dietry Supplements -- Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>36</Id>
+  <Name>Dietary Supplement Use 24-Hour Total Dietary Supplements -- First Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>37</Id>
+  <Name>Dietary Supplement Use 24-Hour Total Dietary Supplements -- Second Day</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>38</Id>
+  <Name>Dietary Supplement Use 30-Day Individual Dietary Supplements</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>39</Id>
+  <Name>Dietary Supplement Use 30-Day Total Dietary Supplements</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>40</Id>
+  <Name>File 1 Supplement Counts</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>41</Id>
+  <Name>File 2 Participants Use of Supplements</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>42</Id>
+  <Name>Food Frequency Questionnaire – Output from DietCalc Software</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>43</Id>
+  <Name>Food Frequency Questionnaire – Raw Questionnaire Responses</Name>
+  <GroupName>Dietary</GroupName>
+  <GroupShortName>DIET</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>44</Id>
+  <Name>Arthritis body measures</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>45</Id>
+  <Name>Audiometry</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0011110</FileExists>
+</Study>
+<Study>
+  <Id>46</Id>
+  <Name>Audiometry - Acoustic Reflex</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000100</FileExists>
+</Study>
+<Study>
+  <Id>47</Id>
+  <Name>Audiometry -- acoustic reflex</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0001010</FileExists>
+</Study>
+<Study>
+  <Id>48</Id>
+  <Name>Audiometry -- tympanometry</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010110</FileExists>
+</Study>
+<Study>
+  <Id>49</Id>
+  <Name>Audiometry – Tympanometry Curve Data</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>50</Id>
+  <Name>Audiometry (Subsample)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>51</Id>
+  <Name>AudiometryTympanometry (Subsample)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>52</Id>
+  <Name>Balance</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>53</Id>
+  <Name>Balance (Subsample)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>54</Id>
+  <Name>Bioelectrical Impedance Analysis</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>55</Id>
+  <Name>Blood Pressure</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>56</Id>
+  <Name>Body Measurements</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0110000</FileExists>
+</Study>
+<Study>
+  <Id>57</Id>
+  <Name>Body measures</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1001111</FileExists>
+</Study>
+<Study>
+  <Id>58</Id>
+  <Name>Cardiovascular Fitness</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>58</Id>
+  <Name>Cardiovascular Fitness</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>59</Id>
+  <Name>Composite International Diagnostic Interview (Generalized Anxiety Disorder) (Subsample)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>60</Id>
+  <Name>Composite International Diagnostic Interview (Major Depression Module) (Subsample)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>61</Id>
+  <Name>Composite International Diagnostic Interview (Panic Disorder Module) (Subsample)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>62</Id>
+  <Name>Composite International Diagnostic Interview (Panic Disorder) (Subsample)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>63</Id>
+  <Name>Dermatology</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>64</Id>
+  <Name>Dual enerby x-ray absorptiometry -- femur</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>65</Id>
+  <Name>Dual Energy X-Ray Absorptiometry - AndroidGynoid Measurements</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>66</Id>
+  <Name>Dual Energy X-ray Absorptiometry - Femur Bone Measurements</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>67</Id>
+  <Name>Dual energy x-ray absorptiometry -- spine</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>68</Id>
+  <Name>Dual-Energy X-ray Absorptiometry Second Day Exam</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>69</Id>
+  <Name>Exhaled nitric oxide</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>70</Id>
+  <Name>Lower Extremity Disease – Ankle Brachial Blood Pressure Index</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>71</Id>
+  <Name>Lower Extremity Disease – Peripheral Neuropathy</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>72</Id>
+  <Name>Lower Extremity Disease (Ankle Brachial Blood Pressure Index)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>73</Id>
+  <Name>Lower Extremity Disease (Ankle-Brachial Blood Pressure Index)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>74</Id>
+  <Name>Lower Extremity Disease (Peripheral Neuropathy)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>75</Id>
+  <Name>Muscle Strength</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>76</Id>
+  <Name>Muscular Strength</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>77</Id>
+  <Name>Ophthalmology - Frequency Doubling Technology</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0001100</FileExists>
+</Study>
+<Study>
+  <Id>78</Id>
+  <Name>Ophthalmology - Retinal Imaging</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000100</FileExists>
+</Study>
+<Study>
+  <Id>79</Id>
+  <Name>Ophthalmology – Retinal Imaging</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>80</Id>
+  <Name>Oral health</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0001100</FileExists>
+</Study>
+<Study>
+  <Id>81</Id>
+  <Name>Oral Health - Dentition</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>82</Id>
+  <Name>Oral health -- dentition</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>83</Id>
+  <Name>Oral health -- peridontal</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>84</Id>
+  <Name>Oral Health - Periodontal</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>85</Id>
+  <Name>Oral Health - Recommendation of Care</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>86</Id>
+  <Name>Oral health -- recommendation of care</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>87</Id>
+  <Name>Oral Health (Dentition)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>88</Id>
+  <Name>Oral Health (Peridontal)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>89</Id>
+  <Name>Oral Health (Referral)</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>90</Id>
+  <Name>Oral Health Examination - Addendum</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>91</Id>
+  <Name>Oral Health Examination - Dentition</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>92</Id>
+  <Name>Oral Health Examination - Lower Periodontal</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>93</Id>
+  <Name>Oral Health Examination - Recommendation of CareReferral</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>94</Id>
+  <Name>Oral Health Examination - Upper Periodontal</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>95</Id>
+  <Name>Oral Health, Dentition</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>96</Id>
+  <Name>Oral Health, PeriodontalLower</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>97</Id>
+  <Name>Oral Health, PeriodontalUpper</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>98</Id>
+  <Name>Oral Health, Referral</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>99</Id>
+  <Name>Shared Exclusion Questions</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>100</Id>
+  <Name>Spirometry --- 1st test &amp; 2nd test bronchodilator studies</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>101</Id>
+  <Name>Tuberculosis</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1000001</FileExists>
+</Study>
+<Study>
+  <Id>102</Id>
+  <Name>Vision</Name>
+  <GroupName>Examination</GroupName>
+  <GroupShortName>EXAM</GroupShortName>
+  <FileExists>1111100</FileExists>
+</Study>
+<Study>
+  <Id>103</Id>
+  <Name>Acrylamide and Glycidamide</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>104</Id>
+  <Name>Aflatoxin B1-lysine concentration in serum</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>105</Id>
+  <Name>Allergen Specific IgE(s) and Total IgE in Serum</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>106</Id>
+  <Name>Antibody to Coxiella Burnetii (Q Fever) (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>107</Id>
+  <Name>Antibody to Cytomegalovirus IgG (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>108</Id>
+  <Name>Antibody to human herpes virus 1</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>109</Id>
+  <Name>Antibody to MUMPS (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>110</Id>
+  <Name>Antibody to Mumps Virus</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>111</Id>
+  <Name>Antibody to Mumps Virus (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>112</Id>
+  <Name>Apolipoprotein B (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>113</Id>
+  <Name>Bacterial vaginosis (BV) and Trichomonas vaginalis</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0110000</FileExists>
+</Study>
+<Study>
+  <Id>114</Id>
+  <Name>Biochemistry Profile</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>115</Id>
+  <Name>Biochemistry Profile and Hormones</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>116</Id>
+  <Name>Blood Cadmium and Lead</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>117</Id>
+  <Name>Blood Cadmium, Lead, and Total Mercury</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000100</FileExists>
+</Study>
+<Study>
+  <Id>118</Id>
+  <Name>Blood Inorganic Mercury</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001100</FileExists>
+</Study>
+<Study>
+  <Id>119</Id>
+  <Name>Blood Lead and Cadmium, Ferritin, Serum Folate, RBC Folate, Vitamin B12, Homocysteine, Total Mercury, Methylmalonic acid, Cotinine (Second Day)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>120</Id>
+  <Name>Blood Lead, Cadmium and Mercury</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>121</Id>
+  <Name>Blood Lead, Cadmium, and Total Mercury</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>122</Id>
+  <Name>Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>123</Id>
+  <Name>Blood mercury- inorganic, ethyl and methyl</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>124</Id>
+  <Name>Blood Total Mercury and Blood Inorganic Mercury</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>125</Id>
+  <Name>Complete Blood Count</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>126</Id>
+  <Name>Complete Blood Count with 5-part Differential</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>127</Id>
+  <Name>Complete Blood Count with 5-part Differential in Whole Blood</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010111</FileExists>
+</Study>
+<Study>
+  <Id>128</Id>
+  <Name>Complete Blood Count with 5-part Differential Second Day Exam</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>129</Id>
+  <Name>Complete Blood Count with 5-Part in Whole Blood</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>130</Id>
+  <Name>C-Reactive Protein</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>131</Id>
+  <Name>C-reactive protein (CRP)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>132</Id>
+  <Name>C-reactive Protein (CRP), Bone Alkaline Phosphatase (BAP), and Parathyroid Hormone (PTH)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>133</Id>
+  <Name>C-reactive protein (CRP), Fibrinogen, Bone Alkaline Phosphatase and Urinary N-telopeptides</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>134</Id>
+  <Name>Cryptosporidum and Toxoplasma</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>135</Id>
+  <Name>Cystatin C (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>136</Id>
+  <Name>Cytomegalovirus</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>137</Id>
+  <Name>Dioxins (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>138</Id>
+  <Name>Dioxins, Furans, and Coplanar PCBs</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>139</Id>
+  <Name>Environmental Pesticides (2,4-dichlorophenol, 2,5-dichlorophenol, ortho-phenylphenol, 2,4,5-trichlorophenol, and 2,4,6-trichlorophenol</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>140</Id>
+  <Name>Environmental Pesticides (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>141</Id>
+  <Name>Environmental Phenols (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010110</FileExists>
+</Study>
+<Study>
+  <Id>142</Id>
+  <Name>Environmental Phenols and Parabens</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>143</Id>
+  <Name>Environmental Phenols and Parabens (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>144</Id>
+  <Name>Epstein-Barr virus (VCA IgG)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011110</FileExists>
+</Study>
+<Study>
+  <Id>145</Id>
+  <Name>Erythrocyte Protoporphyrin</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0101000</FileExists>
+</Study>
+<Study>
+  <Id>146</Id>
+  <Name>Erythrocyte Protoporphyrin 2</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>147</Id>
+  <Name>Erythrocyte Protoporphyrin and Selenium</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>148</Id>
+  <Name>Fasting Questionnaire</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001111</FileExists>
+</Study>
+<Study>
+  <Id>149</Id>
+  <Name>Fatty acids concentration in plasma</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>150</Id>
+  <Name>Ferritin</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>151</Id>
+  <Name>Ferritin and Transferrin Receptor</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>152</Id>
+  <Name>Glucose, Insulin, and C-Peptide (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>153</Id>
+  <Name>Glycohemoglobin</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>154</Id>
+  <Name>Glycohemoglobin, Plasma Glucose, Serum C-peptide, and Insulin (Second Day)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>155</Id>
+  <Name>Hair Mercury</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>156</Id>
+  <Name>HDL-Cholesterol</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001111</FileExists>
+</Study>
+<Study>
+  <Id>157</Id>
+  <Name>Heavy Metals</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>158</Id>
+  <Name>Heavy Metals (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>159</Id>
+  <Name>Hepatitis A</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>160</Id>
+  <Name>Hepatitis A Antibody</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>161</Id>
+  <Name>Hepatitis A Antibody (Anti-HAV)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>162</Id>
+  <Name>Hepatitis B - core antibody, surface antigen, and Hepatitis D antibody</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>163</Id>
+  <Name>Hepatitis B core antibody and surface antigen; Hepatitis C confirmed antibody and RNA (HCV-RNA); Hepatitis D antibody</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>164</Id>
+  <Name>Hepatitis B core antibody, surface antibody and surface antigen; Hepatitis C confirmed antibody; Hepatitis D antibody</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>165</Id>
+  <Name>Hepatitis B core antibody, surface antigen, and Hepatitis D antibody</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>166</Id>
+  <Name>Hepatitis B surface antibody</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0111111</FileExists>
+</Study>
+<Study>
+  <Id>167</Id>
+  <Name>Hepatitis C - confirmed antibody, Hepatitis C RNA (HCV-RNA), and Hepatitis C genotype</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>168</Id>
+  <Name>Hepatitis C Antibody</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>169</Id>
+  <Name>Hepatitis C confirmed antibody, Hepatitis C RNA (HCV-RNA), and Hepatitis HCV genotype</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>170</Id>
+  <Name>Hepatitis C RNA (HCV-RNA) and HCV genotype</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>171</Id>
+  <Name>Hepatitis E</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>172</Id>
+  <Name>Hepatitis E - IgG Antibody and IgM Antibody</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>173</Id>
+  <Name>Herpes Simplex Virus Type-1 and Type-2</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>174</Id>
+  <Name>HIV Antibody Test</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>175</Id>
+  <Name>HIV Antibody Test Result, CD4+ T Lymphocytes and CD8+ T Cells</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>176</Id>
+  <Name>HIV antibody test result, CD4+ T-lymphocytes (helper T cells), and CD8+ T-cells (suppressorinducer T-cells)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>177</Id>
+  <Name>Homocysteine</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>178</Id>
+  <Name>HPV Serum</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>179</Id>
+  <Name>Human Immunodeficiency Virus</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>180</Id>
+  <Name>Human Immunodeficiency Virus (HIV)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>181</Id>
+  <Name>Human Papillomavirus (HPV) DNA Results from Vaginal Swab Samples Digene Hybrid Capture and Roche Linear Array</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001010</FileExists>
+</Study>
+<Study>
+  <Id>182</Id>
+  <Name>Human Papillomavirus (HPV) DNA Results from Vaginal Swab Samples Digene Hybrid Capture, and Prototype Line Blot Assay</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>183</Id>
+  <Name>Human Papillomavirus (HPV) DNA Results from Vaginal Swab Samples Digene Hybrid Capture, and Roche Linear Array</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>184</Id>
+  <Name>Human Papillomavirus (HPV) in Oral Rinse</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000011</FileExists>
+</Study>
+<Study>
+  <Id>185</Id>
+  <Name>Immunofluorescence and immunoprecipitation analyses of autoantibodies (NHANES Surplus Sera) (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>186</Id>
+  <Name>Immunofluorescence and immunoprecipitation analyses of autoantibodies (NHANES Surplus Sera) (Subsample) | Hepatitis B Surface Antibody</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000000</FileExists>
+</Study>
+<Study>
+  <Id>187</Id>
+  <Name>Iron, Total Iron Binding Capacity (TIBC), and Transferrin</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>188</Id>
+  <Name>Iron, Total Iron Binding Capacity (TIBC), and Transferrin Saturation</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>189</Id>
+  <Name>Lab 6 - Vitamin C</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>190</Id>
+  <Name>Laboratory Assessment Lab 26 Urinary Current Use Pesticides (formerly priority pesticides, non-persistent pesticide metabolites) (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>191</Id>
+  <Name>Latex</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>192</Id>
+  <Name>Lead Dust</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>193</Id>
+  <Name>Measles, Mumps, Rubella and Varicella Antibodies</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>194</Id>
+  <Name>Measles, Rubella, and Varicella</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>195</Id>
+  <Name>Melamine (Surplus Urine)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>196</Id>
+  <Name>Methicillin-Resistant Staphylococcus Aureus</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>197</Id>
+  <Name>Methicillin-Resistant Staphylococcus aureus (MRSA)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>198</Id>
+  <Name>Methylmalonic acid and Homocysteine</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>199</Id>
+  <Name>Monoclonal gammopathy of undetermined significance (MGUS)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>200</Id>
+  <Name>Nitrate, thiocyanate, perchlorate (Surplus Urine)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>201</Id>
+  <Name>Non-dioxin-like Polychlorinated Biphenyls</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>202</Id>
+  <Name>Nutritional Biochemistries</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>203</Id>
+  <Name>Organochlorine Pesticides</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>204</Id>
+  <Name>Parathyroid Hormone</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>205</Id>
+  <Name>Perchlorate, Nitrate, and Iodide in Tap Water</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>206</Id>
+  <Name>Perfluorinated Chemicals (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>207</Id>
+  <Name>Phlebotomy Examination</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>208</Id>
+  <Name>Phlebotomy fasting questionnaire</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>209</Id>
+  <Name>PHPYPA Urinary Phthalates (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>210</Id>
+  <Name>Plasma Fasting Glucose and Insulin</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>211</Id>
+  <Name>Plasma Fasting Glucose and Insulin (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>212</Id>
+  <Name>Plasma Glucose (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>213</Id>
+  <Name>Plasma Glucose, Serum C-peptide, and Insulin</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>214</Id>
+  <Name>Polyaromatic Hydrocarbons</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>215</Id>
+  <Name>Polybrominated Diphenyl Ethers</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>216</Id>
+  <Name>Polyfluorinated Compounds</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>217</Id>
+  <Name>Polyfluorinated Compounds (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>218</Id>
+  <Name>Polyfluorinated Compounds (Subsample) | Human Papillomavirus (HPV) DNA Results from Vaginal Swab Samples Digene Hybrid Capture and Roche Linear Array</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000000</FileExists>
+</Study>
+<Study>
+  <Id>219</Id>
+  <Name>Polyfluoroalkyl Chemicals (Pooled Samples)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>220</Id>
+  <Name>Pregnancy Results</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>221</Id>
+  <Name>Prostate specific antigen</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>222</Id>
+  <Name>Prostate specific antigen (PSA)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>223</Id>
+  <Name>Prostate Specific Antigen (PSA) Exclusion Questions and Lab Results</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>224</Id>
+  <Name>RacialEthnic Variation in Sex Steroid Hormone Concentrations Across Age In US Men (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>225</Id>
+  <Name>RBC Folate</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>226</Id>
+  <Name>RBC Folate and Serum Folate</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>227</Id>
+  <Name>RBC Folate, Serum Folate, and Vitamin B12</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>228</Id>
+  <Name>Second Day Exam - Measles, Rubella, and Varicella</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>229</Id>
+  <Name>Second Day Exam - Urine Creatinine and Albumin</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>230</Id>
+  <Name>Second Day Exam - Vitamin A, Vitamin E, and Carotenoids</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>231</Id>
+  <Name>Second Day Exam on C-reactive protein, etc</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>232</Id>
+  <Name>Second Day Exam Prostate-specific Antigen (PSA)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>233</Id>
+  <Name>Second Day Total, HDL, LDL Cholesterol and Triglycerides</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>234</Id>
+  <Name>Serum Copper, Selenium, and Zinc (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>235</Id>
+  <Name>Serum Cotinine</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>236</Id>
+  <Name>Serum Cotinine and Urinary Total NNAL</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>237</Id>
+  <Name>Serum Folate Forms</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>238</Id>
+  <Name>Serum Transferrin and Receptor (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>239</Id>
+  <Name>Serum transferrin receptor and serum ferritin (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>240</Id>
+  <Name>Standard Biochemistry Profile</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0101111</FileExists>
+</Study>
+<Study>
+  <Id>241</Id>
+  <Name>Standard Biochemistry Profile, Follicle Stimulating Hormone, and Luteinizing Hormone (Second Day)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>242</Id>
+  <Name>Surplus Sera Cystatin C</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>243</Id>
+  <Name>Surplus Sera Thyroid Profile</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>244</Id>
+  <Name>Syphilis(IgG), Syphilis Rapid Plasma Reagin (RPR), and Treponema pallidum Particle Agglutination (TP-PA)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>245</Id>
+  <Name>Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR), and Treponema pallidum Particle Agglutination (TP-PA)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>246</Id>
+  <Name>Thyroid Profile</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>247</Id>
+  <Name>Thyroid Profile (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>248</Id>
+  <Name>Thyroid-Stimulating Hormone and Thyroxine (TSH &amp; T4) (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>249</Id>
+  <Name>Tissue transglutaminase assay (IgA-TTG) and the IgA endomyseal antibody assay (IgA EMA)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000011</FileExists>
+</Study>
+<Study>
+  <Id>250</Id>
+  <Name>Total and Speciated Arsenics</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>251</Id>
+  <Name>Total Arsenic and Speciated Arsenics</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>252</Id>
+  <Name>Total Cholesterol</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001011</FileExists>
+</Study>
+<Study>
+  <Id>253</Id>
+  <Name>Total Cholesterol and HDL</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>254</Id>
+  <Name>Total Testosterone</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>255</Id>
+  <Name>Toxoplasma (IgG) and Toxoplasma (IgM)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>256</Id>
+  <Name>Toxoplasma (IgG), Toxoplasma (IgM),Toxoplasma (Dye),Toxoplasma Differential Agglutination, and Toxoplasma (Avidity)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>257</Id>
+  <Name>Transferrin Receptor</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>258</Id>
+  <Name>Triglyceride, LDL-cholesterol and Apoliprotein (ApoB)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>259</Id>
+  <Name>Triglycerides and LDL-Cholesterol</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010110</FileExists>
+</Study>
+<Study>
+  <Id>260</Id>
+  <Name>Triglycerides and LDL-Cholesterol (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100001</FileExists>
+</Study>
+<Study>
+  <Id>261</Id>
+  <Name>Tuberculosis Quantiferon_In_Gold</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>262</Id>
+  <Name>Two-hour Oral Glucose Tolerance Test</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>263</Id>
+  <Name>Two-hour Oral Glucose Tolerance Test (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>264</Id>
+  <Name>Unmetabolized Folic Acid (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>265</Id>
+  <Name>Urinary Albumin and Urinary Creatinine</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011111</FileExists>
+</Study>
+<Study>
+  <Id>266</Id>
+  <Name>Urinary Carbamates and Organophosphorus Pesticides (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>267</Id>
+  <Name>Urinary Chlamydia</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000011</FileExists>
+</Study>
+<Study>
+  <Id>268</Id>
+  <Name>Urinary Chlamydia and  Gonorrhea</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000100</FileExists>
+</Study>
+<Study>
+  <Id>269</Id>
+  <Name>Urinary Chlamydia and Gonorrhea</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>270</Id>
+  <Name>Urinary Chlamydia and Urinary Gonorrhea</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>271</Id>
+  <Name>Urinary Creatinine and Albumin</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>272</Id>
+  <Name>Urinary Current Use Pesticides (formerly priority pesticides, non-persistent pesticide metabolites) (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>273</Id>
+  <Name>Urinary Current Use Pesticides (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000100</FileExists>
+</Study>
+<Study>
+  <Id>274</Id>
+  <Name>Urinary Heavy Metal</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>275</Id>
+  <Name>Urinary Iodine</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011100</FileExists>
+</Study>
+<Study>
+  <Id>276</Id>
+  <Name>Urinary Iodine (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100011</FileExists>
+</Study>
+<Study>
+  <Id>277</Id>
+  <Name>Urinary Mercury</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>278</Id>
+  <Name>Urinary Mercury (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>279</Id>
+  <Name>Urinary Organophosphate Insecticides Diakyl Phosphate Metabolites</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010100</FileExists>
+</Study>
+<Study>
+  <Id>280</Id>
+  <Name>Urinary Perchlorate</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>281</Id>
+  <Name>Urinary Perchlorate, Urinary Nitrate, Urinary Thiocyanate</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000100</FileExists>
+</Study>
+<Study>
+  <Id>282</Id>
+  <Name>Urinary Perchlorate, Urinary Nitrate, Urinary Thiocyanate (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>283</Id>
+  <Name>Urinary Perchlorate, Urinary Nitrate, Urinary Thiocyanate from a Special Sample (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>284</Id>
+  <Name>Urinary Phthalates</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>285</Id>
+  <Name>Urinary Phthalates (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>286</Id>
+  <Name>Urinary Phthalates and Plasticizers Metabolites (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>287</Id>
+  <Name>Urinary Phthalates, Phytoestrogens and PAHs (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>288</Id>
+  <Name>Urinary Phytoestrogens</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>289</Id>
+  <Name>Urinary Phytoestrogens (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>290</Id>
+  <Name>Urinary Polyaromatic Hydrocarbons</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000100</FileExists>
+</Study>
+<Study>
+  <Id>291</Id>
+  <Name>Urinary Polyaromatic Hydrocarbons (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>292</Id>
+  <Name>Urinary Polyaromatic Hydrocarbons from a Special Sample (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>293</Id>
+  <Name>Urinary Priority Pesticides (Non-Persistent Pesticide Metabolites) (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>294</Id>
+  <Name>Urinary Priority Pesticides (Non-Persistent Pesticide Metabolites), (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>295</Id>
+  <Name>Urinary Total Arsenic and Speciated Arsenics (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>296</Id>
+  <Name>Urinary Total Arsenic and Speciated Arsenics from a Special Sample (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>297</Id>
+  <Name>Urine Collection (Pregnancy)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>298</Id>
+  <Name>Urine Flow Rate</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000011</FileExists>
+</Study>
+<Study>
+  <Id>299</Id>
+  <Name>Urine Heavy Metals (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>300</Id>
+  <Name>Urine Heavy Metals from a Special Sample (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>301</Id>
+  <Name>Urine Osmolality</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000011</FileExists>
+</Study>
+<Study>
+  <Id>302</Id>
+  <Name>Urine Pregnancy Test</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001111</FileExists>
+</Study>
+<Study>
+  <Id>303</Id>
+  <Name>Urine Specific Gravity Measurement</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000100</FileExists>
+</Study>
+<Study>
+  <Id>304</Id>
+  <Name>Varicella-Zoster Virus Antibody (Surplus Sera)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>305</Id>
+  <Name>Vitamin A, E and Carotenoids</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>306</Id>
+  <Name>Vitamin B12</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001001</FileExists>
+</Study>
+<Study>
+  <Id>307</Id>
+  <Name>Vitamin B6</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0011000</FileExists>
+</Study>
+<Study>
+  <Id>308</Id>
+  <Name>Vitamin C</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>309</Id>
+  <Name>Vitamin D</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0111000</FileExists>
+</Study>
+<Study>
+  <Id>310</Id>
+  <Name>Vitamin D (Second Day)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>311</Id>
+  <Name>Vitamins A, E and Carotenoids</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>312</Id>
+  <Name>Vitamins A, E, and Carotenoids</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>313</Id>
+  <Name>Volatile Organic Compounds (VOC) (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>314</Id>
+  <Name>Volatile Organic Compounds and Metabolites from a Special Sample (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>315</Id>
+  <Name>Volatile Organic Compounds and Metabolites in Urine (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>316</Id>
+  <Name>Volatile Organic Compounds in Blood (Subsample)</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>317</Id>
+  <Name>Volatile Organic Compounds in Blood and Water</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>318</Id>
+  <Name>Volatile Organic Compounds in Water and Related Questionnaire Items</Name>
+  <GroupName>Laboratory</GroupName>
+  <GroupShortName>LAB</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<!--<Study>
+  <Id>319</Id>
+  <Name>Other</Name>
+  <GroupName>Other</GroupName>
+  <GroupShortName>OTHER</GroupShortName>
+  <FileExists>0000000</FileExists>
+</Study>-->
+<Study>
+  <Id>320</Id>
+  <Name>Acculturation</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>321</Id>
+  <Name>Air Quality Questionnaire</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>322</Id>
+  <Name>Alcohol Use</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1110011</FileExists>
+</Study>
+<Study>
+  <Id>323</Id>
+  <Name>Alcohol Use (Ages 20+)</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001100</FileExists>
+</Study>
+<Study>
+  <Id>324</Id>
+  <Name>Alcohol Use Youth</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>325</Id>
+  <Name>Allergy</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>326</Id>
+  <Name>Analgesic Medications (Pain Relievers)</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>327</Id>
+  <Name>Analgesics Pain Relievers</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0110000</FileExists>
+</Study>
+<Study>
+  <Id>328</Id>
+  <Name>Arthritis Questionnaire</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000010</FileExists>
+</Study>
+<Study>
+  <Id>329</Id>
+  <Name>Audiometry</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111001</FileExists>
+</Study>
+<Study>
+  <Id>330</Id>
+  <Name>Audiometry Questionnaire</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>331</Id>
+  <Name>Balance</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>332</Id>
+  <Name>Blood Pressure</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1010000</FileExists>
+</Study>
+<Study>
+  <Id>333</Id>
+  <Name>Blood Pressure and Cholesterol</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0101111</FileExists>
+</Study>
+<Study>
+  <Id>334</Id>
+  <Name>Bowel Health</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>335</Id>
+  <Name>Cardiovascular Disease</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1101110</FileExists>
+</Study>
+<Study>
+  <Id>336</Id>
+  <Name>Cardiovascular Disease and Health</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0010001</FileExists>
+</Study>
+<Study>
+  <Id>337</Id>
+  <Name>Cognitive Functioning</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>338</Id>
+  <Name>Consumer Behavior</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>339</Id>
+  <Name>Consumer Behavior Phone Follow-up Module - Adult</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>340</Id>
+  <Name>Consumer Behavior Phone Follow-up Module - Child</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>341</Id>
+  <Name>Creatine Kinase Questionnaire</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>342</Id>
+  <Name>Current Health Status</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>343</Id>
+  <Name>Depression Screener</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001111</FileExists>
+</Study>
+<Study>
+  <Id>344</Id>
+  <Name>Dermatology</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1110011</FileExists>
+</Study>
+<Study>
+  <Id>345</Id>
+  <Name>Diabetes</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>346</Id>
+  <Name>Diet Behavior and Nutrition</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111110</FileExists>
+</Study>
+<Study>
+  <Id>347</Id>
+  <Name>Drug Use</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111000</FileExists>
+</Study>
+<Study>
+  <Id>348</Id>
+  <Name>Drug Use (Ages 18+)</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000011</FileExists>
+</Study>
+<Study>
+  <Id>349</Id>
+  <Name>Drug Use (Ages 20+)</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000100</FileExists>
+</Study>
+<Study>
+  <Id>350</Id>
+  <Name>Early Childhood</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>351</Id>
+  <Name>Family Smoking</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0110000</FileExists>
+</Study>
+<Study>
+  <Id>352</Id>
+  <Name>Food Security</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111110</FileExists>
+</Study>
+<Study>
+  <Id>353</Id>
+  <Name>Health Insurance</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>354</Id>
+  <Name>Hepatitis C Follow Up</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0110000</FileExists>
+</Study>
+<Study>
+  <Id>355</Id>
+  <Name>Hepatitis C Follow Up Questionnaire</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001111</FileExists>
+</Study>
+<Study>
+  <Id>356</Id>
+  <Name>Hospital Utilization</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>357</Id>
+  <Name>Hospital Utilization and Access to Care</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0111111</FileExists>
+</Study>
+<Study>
+  <Id>358</Id>
+  <Name>Housing Characteristics</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>359</Id>
+  <Name>Immunization</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111000</FileExists>
+</Study>
+<Study>
+  <Id>360</Id>
+  <Name>Immunization | Occupation Questionnaire</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000000</FileExists>
+</Study>
+<Study>
+  <Id>361</Id>
+  <Name>Immunization Questionnaire</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000111</FileExists>
+</Study>
+<Study>
+  <Id>362</Id>
+  <Name>Income</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000110</FileExists>
+</Study>
+<Study>
+  <Id>363</Id>
+  <Name>Kidney Conditions</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>364</Id>
+  <Name>Kidney Conditions - Urology</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0011110</FileExists>
+</Study>
+<Study>
+  <Id>365</Id>
+  <Name>Medical Conditions</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>366</Id>
+  <Name>Miscellaneous Pain</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>367</Id>
+  <Name>Occupation</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1101100</FileExists>
+</Study>
+<Study>
+  <Id>368</Id>
+  <Name>Occupation Questionnaire</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000011</FileExists>
+</Study>
+<Study>
+  <Id>369</Id>
+  <Name>Oral Health</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>370</Id>
+  <Name>Osteoporosis</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111110</FileExists>
+</Study>
+<Study>
+  <Id>371</Id>
+  <Name>Pesticide Use</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>372</Id>
+  <Name>Physical Activity</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>373</Id>
+  <Name>Physical Activity Individual Activities</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>374</Id>
+  <Name>Physical Activity Individual Activities File</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1100000</FileExists>
+</Study>
+<Study>
+  <Id>375</Id>
+  <Name>Physical Function</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>376</Id>
+  <Name>Physical Functioning</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1011111</FileExists>
+</Study>
+<Study>
+  <Id>377</Id>
+  <Name>Prescription Medications</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111110</FileExists>
+</Study>
+<Study>
+  <Id>378</Id>
+  <Name>Prescription Medications - Drug Information</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>379</Id>
+  <Name>Preventive Aspirin Use</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>380</Id>
+  <Name>Prostate Conditions</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0111100</FileExists>
+</Study>
+<Study>
+  <Id>381</Id>
+  <Name>Prostate Specific Antigen Follow Up</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>382</Id>
+  <Name>Prostate Specific Antigen Follow Up Questionnaire</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001000</FileExists>
+</Study>
+<Study>
+  <Id>383</Id>
+  <Name>Reproductive Health</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>384</Id>
+  <Name>Respiratory Disease</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0101000</FileExists>
+</Study>
+<Study>
+  <Id>385</Id>
+  <Name>Respiratory Health &amp; Disease</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0010110</FileExists>
+</Study>
+<Study>
+  <Id>386</Id>
+  <Name>Respiratory Health and Disease</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1000001</FileExists>
+</Study>
+<Study>
+  <Id>387</Id>
+  <Name>Sexual Behavior</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111111</FileExists>
+</Study>
+<Study>
+  <Id>388</Id>
+  <Name>Sleep Disorders</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001111</FileExists>
+</Study>
+<Study>
+  <Id>389</Id>
+  <Name>Smoking - Cigarette Use</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001111</FileExists>
+</Study>
+<Study>
+  <Id>390</Id>
+  <Name>Smoking - Cigarette Use | Smoking – Household Smokers</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000000</FileExists>
+</Study>
+<Study>
+  <Id>391</Id>
+  <Name>Smoking - Household Smokers</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>392</Id>
+  <Name>Smoking – Household Smokers</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1000110</FileExists>
+</Study>
+<Study>
+  <Id>393</Id>
+  <Name>Smoking - Recent Tobacco Use</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>394</Id>
+  <Name>Smoking – Recent Tobacco Use</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>395</Id>
+  <Name>Smoking and Tobacco Use</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1110000</FileExists>
+</Study>
+<Study>
+  <Id>396</Id>
+  <Name>Smoking and Tobacco Use (MEC)</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1000000</FileExists>
+</Study>
+<Study>
+  <Id>397</Id>
+  <Name>Smoking and Tobacco Use 2</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>398</Id>
+  <Name>Smoking and Tobacco Use MEC</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0010000</FileExists>
+</Study>
+<Study>
+  <Id>399</Id>
+  <Name>Social Support</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111100</FileExists>
+</Study>
+<Study>
+  <Id>400</Id>
+  <Name>Taste and Smell Disorders</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0000001</FileExists>
+</Study>
+<Study>
+  <Id>401</Id>
+  <Name>Tuberculosis</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1000001</FileExists>
+</Study>
+<Study>
+  <Id>402</Id>
+  <Name>Urology and Kidney Conditions</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+<Study>
+  <Id>403</Id>
+  <Name>Vision</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1111100</FileExists>
+</Study>
+<Study>
+  <Id>404</Id>
+  <Name>Weight History</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>1010001</FileExists>
+</Study>
+<Study>
+  <Id>405</Id>
+  <Name>Weight History 16 Years and Older</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001110</FileExists>
+</Study>
+<Study>
+  <Id>406</Id>
+  <Name>Weight History 8-15 years</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0001111</FileExists>
+</Study>
+<Study>
+  <Id>407</Id>
+  <Name>Weight History section</Name>
+  <GroupName>Questionnaire</GroupName>
+  <GroupShortName>QUES</GroupShortName>
+  <FileExists>0100000</FileExists>
+</Study>
+</NHANES>

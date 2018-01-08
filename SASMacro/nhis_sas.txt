@@ -1,0 +1,8 @@
+﻿libname nhis 'C:\SAS';
+libname house1 'K:\shared\Databases\National Health Interview Survey\NHIS 2004\Household file';
+libname library "K:\shared\Databases\National Health Interview Survey\NHIS 2004\Household file";
+
+libname house2 'K:\shared\Databases\National Health Interview Survey\NHIS 2005\Household file';
+libname library "K:\shared\Databases\National Health Interview Survey\NHIS 2005\Household file";
+
+data nhis.h6; set set house1.househld (keep=RECTYPE SRVY_YR HHX) house2.househld (keep=RECTYPE SRVY_YR); run;
